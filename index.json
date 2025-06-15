@@ -1,0 +1,11 @@
+[
+  {
+    "name": "FaselHDX Plugin",
+    "filename": "fasel.apk",
+    "version": 1,
+    "language": "ar",
+    "description": "Plugin to stream from faselhdxwatch.top",
+    "icon": "https://raw.githubusercontent.com/msd3539/fasel-plugin-cloudstream/main/icon.png",
+    "authors": ["msd3539"]
+  }
+]
